@@ -1,46 +1,39 @@
-# Debabrata-Pruseth
-Bridging Enterprise Architecture, Cloud Strategy and Applied AI Research
+# Debabrata Pruseth
 
-I am an AI Architect, Applied AI Researcher, and Enterprise Technology Strategist with global experience delivering enterprise architecture, cloud transformation, and AI initiatives across the banking and financial services industry.
+### Enterprise AI Architect | Applied AI Researcher | Technology Strategist
 
-## Areas of Interest
+**Bridging Enterprise Architecture, AI Strategy, and Applied Research to solve real-world challenges.**
 
-* Enterprise AI
-* Generative AI
-* Machine Learning
-* Scientific Machine Learning
-* Computer Vision
-* Time Series Forecasting
-* AI Governance
-* Cloud Strategy
-* Enterprise Architecture
+I am an AI Architect, Applied AI Researcher, and Enterprise Technology Strategist with international experience in enterprise architecture, cloud transformation, and technology initiatives, particularly in banking and financial services.
 
-## Current Focus
+My work focuses on designing, experimenting with, and evaluating **practical, explainable, responsible, and scalable AI solutions** across enterprise and scientific domains.
 
-* Enterprise AI adoption and governance
-* LLM applications and AI agents
-* AI evaluation and benchmarking
-* Scientific machine learning
-* Forecasting foundation models
-* Computer vision systems
+## 🔬 Areas of Expertise & Research
 
-## Featured Projects
+- **Enterprise AI:** AI Architecture, Governance, Agentic AI, LLMs, RAG
+- **Applied AI & ML:** Deep Learning, Explainable AI, Computer Vision, Forecasting
+- **Decision Intelligence:** Mathematical Optimization, Digital Twins, AI-Assisted Decision-Making
+- **Scientific AI:** Geospatial AI, Remote Sensing, Scientific Machine Learning
+- **AI Engineering:** Model Evaluation, Benchmarking, Reproducible Research
+- **Technology Strategy:** Cloud Architecture, Enterprise Transformation, AI Adoption
 
-* Optimind-Gurobi-Workload-Placement
-* Smart-Model-Router-for-Regulated-AI
-* AI-Powered-Market-Risk-Control-Cockpit
-* Langtang-Glacier-AI-Multisensor-Analysis-of-the-2026-Langtang-Lirung-Event
-* AI-Financial-Digital-Twin
-* Hybrid-Signature-Verification-Fraud-Detection-Engine
+## 🚀 Featured Projects
 
-## Publications & Research
+| Project | Focus |
+|---|---|
+| [AI-Assisted Workload Placement — OptiMind & Gurobi](https://github.com/debabratapruseth/Optimind-Gurobi-Workload-Placement) | AI-driven mathematical optimization for enterprise workload placement |
+| [Smart Model Router for Regulated AI](https://github.com/debabratapruseth/Smart-Model-Router-for-Regulated-AI) | Governance-aware AI model routing and comparative evaluation |
+| [AI-Powered Market Risk Control Cockpit](https://github.com/debabratapruseth/AI-Powered-Market-Risk-Control-Cockpit) | AI-enabled financial risk analytics and decision support |
+| [Langtang Glacier AI Multisensor Analysis](https://github.com/debabratapruseth/Langtang-Glacier-AI-Multisensor-Analysis-of-the-2026-Langtang-Lirung-Event) | Geospatial AI and multisensor environmental analysis |
+| [AI Financial Digital Twin](https://github.com/debabratapruseth/AI-Financial-Digital-Twin) | Simulation of interconnected enterprise and financial risks |
+| [Hybrid Signature Verification & Fraud Detection](https://github.com/debabratapruseth/Hybrid-Signature-Verification-Fraud-Detection-Engine) | Computer vision and AI-assisted fraud detection |
 
-Website: https://debabratapruseth.com
+## 🌐 Research & Professional Presence
 
-Google Scholar: https://scholar.google.com/citations?user=IzF8L8IAAAAJ
+- **Website & Research:** https://debabratapruseth.com
+- **Google Scholar:** https://scholar.google.com/citations?user=IzF8L8IAAAAJ
+- **LinkedIn:** https://www.linkedin.com/in/debabrata-pruseth-763ba61a/
 
-LinkedIn: https://www.linkedin.com/in/debabrata-pruseth-763ba61a/
+---
 
-## Philosophy
-
-Bridging enterprise transformation, cloud strategy, and applied AI research to deliver practical business impact.
+*Exploring AI beyond the hype — through practical experimentation, rigorous evaluation, and real-world applications.*
