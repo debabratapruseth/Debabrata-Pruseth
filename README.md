@@ -26,11 +26,12 @@ I am an AI Architect, Applied AI Researcher, and Enterprise Technology Strategis
 
 ## Featured Projects
 
-* Bitcoin Volatility Forecasting
-* Plant Disease Detection using Deep Learning
-* Fluid Dynamics Prediction with AI
-* Face Verification using InsightFace
-* Satellite Image Analysis with Machine Learning
+* Optimind-Gurobi-Workload-Placement
+* Smart-Model-Router-for-Regulated-AI
+* AI-Powered-Market-Risk-Control-Cockpit
+* Langtang-Glacier-AI-Multisensor-Analysis-of-the-2026-Langtang-Lirung-Event
+* AI-Financial-Digital-Twin
+* Hybrid-Signature-Verification-Fraud-Detection-Engine
 
 ## Publications & Research
 
